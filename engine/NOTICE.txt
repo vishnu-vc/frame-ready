@@ -1,0 +1,6 @@
+FFmpeg WebAssembly core 0.12.10, distributed unmodified (WASM split into four byte chunks for delivery).
+Copyright FFmpeg developers, ffmpeg.wasm contributors, and included codec library authors.
+License: GPL-2.0-or-later. See LICENSE.txt.
+Upstream source and reproducible build instructions: https://github.com/ffmpegwasm/ffmpeg.wasm/tree/core%40v0.12.10
+FFmpeg source: https://github.com/ffmpegwasm/ffmpeg.wasm/tree/main/src
+Package: https://www.npmjs.com/package/@ffmpeg/core/v/0.12.10
